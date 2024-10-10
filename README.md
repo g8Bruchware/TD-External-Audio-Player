@@ -1,15 +1,3 @@
-# TD-External-Audio-Player
-Lightweight external audio player to play soundfiles out of Touchdesigner.
-Audio is not influenced by the framerate or cooking. 
-Audio Player is programmed in Processing 4.3 
-No Installation needed!!!
-
-## Usage:
-Only one instance per machine possible.
-Level does not work!!!
-
-## Steps to get it work:
-1. In "Control"-Tab link the "Player"-Folder
-2. in "Files"-Tab link soundfiles
-3. In "Control"-Tab press "Save"
-4. Press Start in "Control"-Tab
+version https://git-lfs.github.com/spec/v1
+oid sha256:d248f3f39640847097880203f240b69c8dd83375209dd7d21d7a142ec5e4a050
+size 500
